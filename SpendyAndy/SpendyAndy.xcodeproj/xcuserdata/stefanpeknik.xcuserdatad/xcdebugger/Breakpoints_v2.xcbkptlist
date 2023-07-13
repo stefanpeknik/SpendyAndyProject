@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5EB0CAF8-CE22-4F9D-98BF-1D867A84743E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C089FFF-8804-440F-AC49-A98B699CC901"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/Views/ListUsersView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 14138952f1bfcab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 24ebd2aa9b42acb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 24ebd2aa9b42acb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 758359c1df82b6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 349a411e4f3ed8ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 14138952f1bfcab9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "6C089FFF-8804-440F-AC49-A98B699CC901 - 24ebd2aa9b42acb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in closure #2 () -&gt; () in SpendyAndy.ListUsersView.body.getter : some"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Views/ListUsersView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A469D226-1DB7-41C5-ABA0-8E77A646E2CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/ViewModels/UpdateUserViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "deleteUser()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75FBA4E9-184F-4329-B088-015373561E61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/Utilities/Connection/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "sendReqest(to:httpMethod:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75FBA4E9-184F-4329-B088-015373561E61 - bb473b53a7ad817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SpendyAndy.HttpClient.sendReqest(to: Foundation.URL, httpMethod: Swift.String) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "75FBA4E9-184F-4329-B088-015373561E61 - d3072093ff66d977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SpendyAndy.HttpClient.sendReqest(to: Foundation.URL, httpMethod: Swift.String) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "75FBA4E9-184F-4329-B088-015373561E61 - 4d753e8d93c59815"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.HttpClient.sendReqest(to: Foundation.URL, httpMethod: Swift.String) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "75FBA4E9-184F-4329-B088-015373561E61 - 12569f79bf14f814"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SpendyAndy.HttpClient.sendReqest(to: Foundation.URL, httpMethod: Swift.String) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "67"
+                  endingLineNumber = "67"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C0C4285-7419-4045-8D29-AEDBAF983260"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/Utilities/Connection/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetch(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5290354-BEBA-4593-AC55-FBF154D87722"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/Utilities/Connection/HttpClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetch(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5290354-BEBA-4593-AC55-FBF154D87722 - 9ae344024395c331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL) async throws -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "E5290354-BEBA-4593-AC55-FBF154D87722 - 9ae344024395c331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL) async throws -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+               <Location
+                  uuid = "E5290354-BEBA-4593-AC55-FBF154D87722 - 9ae344024395c331"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.HttpClient.fetch&lt;&#x3c4;_0_0 where &#x3c4;_0_0: Swift.Decodable, &#x3c4;_0_0: Swift.Encodable&gt;(url: Foundation.URL) async throws -&gt; Swift.Array&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/Utilities/Connection/HttpClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3FAE21E-1307-4EBB-863C-2695FB714878"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "fetchDebts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D872B16-120A-4D7F-AAAE-3E4C2D387AAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "fetchDebts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D872B16-120A-4D7F-AAAE-3E4C2D387AAB - 7a749d15a09aff89"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SpendyAndy.EditDebtsViewModel.fetchDebts() async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "5D872B16-120A-4D7F-AAAE-3E4C2D387AAB - 3bd2a486ab0b8a80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for SpendyAndy.EditDebtsViewModel.fetchDebts() async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "5D872B16-120A-4D7F-AAAE-3E4C2D387AAB - 34cc1ca70198224b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.EditDebtsViewModel.fetchDebts() async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "5D872B16-120A-4D7F-AAAE-3E4C2D387AAB - ac17dc7fb117442a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SpendyAndy.EditDebtsViewModel.fetchDebts() async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/TransactionViewModels/EditDebtsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "103"
+                  endingLineNumber = "103"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE36C956-7E85-4DE4-9D17-3466F60E67C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "fetchDebts(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BE36C956-7E85-4DE4-9D17-3466F60E67C8 - 92823dfdd98b82cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SpendyAndy.IndebtednessesListViewModel.fetchDebts(user: SpendyAndy.User) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "840">
+               </Location>
+               <Location
+                  uuid = "BE36C956-7E85-4DE4-9D17-3466F60E67C8 - 92823dfdd98b82cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SpendyAndy.IndebtednessesListViewModel.fetchDebts(user: SpendyAndy.User) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "920">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10147483-0F40-43CF-8DC3-B11BB2D6DFA2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchDebts(user:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "10147483-0F40-43CF-8DC3-B11BB2D6DFA2 - 92823dfdd98b8175"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for SpendyAndy.IndebtednessesListViewModel.fetchDebts(user: SpendyAndy.User) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "10147483-0F40-43CF-8DC3-B11BB2D6DFA2 - 973dab3852c2563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for SpendyAndy.IndebtednessesListViewModel.fetchDebts(user: SpendyAndy.User) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "10147483-0F40-43CF-8DC3-B11BB2D6DFA2 - b2ab69d29efeeb68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for SpendyAndy.IndebtednessesListViewModel.fetchDebts(user: SpendyAndy.User) async throws -&gt; ()"
+                  moduleName = "SpendyAndy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stefanpeknik/Documents/GitHub/SpendyAndy/SpendyAndy/ViewModels/IndebtednessViewModels/IndebtednessesListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

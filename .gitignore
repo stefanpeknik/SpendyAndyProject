@@ -1,0 +1,9 @@
+/SpendyAndyApi/Packages
+/SpendyAndyApi/.build
+/SpendyAndyApi/xcuserdata
+/SpendyAndyApi/*.xcodeproj
+/SpendyAndyApi/DerivedData/
+/SpendyAndyApi/.DS_Store
+/SpendyAndyApi/db.sqlite
+/SpendyAndyApi/.swiftpm
+/SpendyAndyApi/.env
